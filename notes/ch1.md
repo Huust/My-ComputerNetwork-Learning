@@ -133,7 +133,3 @@
 <img src="/Users/leisurie/Library/Application Support/typora-user-images/截屏2020-11-12 下午4.59.45.png" alt="截屏2020-11-12 下午4.59.45" style="zoom:50%;" />
 
 > 两个主机之间通过路由器传输时会利用路由器网络层实现ip地址的对接。
->
-> 
-
-![image-20201112215438567](images/image-20201112215438567.png)
