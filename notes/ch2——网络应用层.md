@@ -6,7 +6,7 @@
 
   > 例子：web
 
-  <img src="images/image-20201113100542628.png" alt="image-20201113100542628" style="zoom:50%;" />
+  <img src="images/image-20201113100542628.png" alt="image-20201113100542628" style="zoom: 33%;" />
 
 - P2P
 
